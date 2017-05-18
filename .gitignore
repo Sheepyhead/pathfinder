@@ -70,3 +70,8 @@ atlassian-ide-plugin.xml
 .idea/replstate.xml
 
 .idea/
+
+# Database and data files
+*.xml
+*.db
+*.dll
